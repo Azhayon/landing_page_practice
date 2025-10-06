@@ -1,2 +1,8 @@
-# landing_page_practice
-A collection of landing page projects I built while practicing HTML and CSS from various tutorials.
+# 🌐 Landing Page Practice
+
+This repository contains multiple landing page projects I created while learning and practicing **HTML** and **CSS**.  
+Each project is inspired by different tutorial videos to help me improve my front-end development skills and understand modern web layouts, responsive design, and styling techniques.
+
+## 🧩 Projects Included
+Each folder contains a separate landing page project with its own HTML, CSS, and assets.
+
