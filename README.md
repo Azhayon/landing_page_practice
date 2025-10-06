@@ -6,3 +6,5 @@ Each project is inspired by different tutorial videos to help me improve my fron
 ## 🧩 Projects Included
 Each folder contains a separate landing page project with its own HTML, CSS, and assets.
 
+1 **Art Work Landing Page**
+   - Tutorial Source: [[YouTube link here](https://youtu.be/3fxxRHV8Jfk?si=NKbmBennHlouZJsU)]
